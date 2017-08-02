@@ -1,5 +1,5 @@
 Copy the .zip file and paste it in the user item template location.
-------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
 2005:
 C:\Program Files (x86)\Microsoft Visual Studio 8\Common7\IDE\ItemTemplates\CSharp\1033\Class.zip
 
@@ -8,7 +8,7 @@ C:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\IDE\ItemTemplates\CSh
 
 2010:
 C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\ItemTemplates\CSharp\Code\1033\Class.zip
------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------
 Starting with Visual Studio 2012, the templates are not zipped, so you can edit each .cs template in each applicable folder directly.
 2012:
 C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\IDE\ItemTemplates\CSharp\Code\1033\Class\Class.cs
@@ -22,7 +22,7 @@ C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\ItemTemplates\CS
 2017:
 ENTERPRISE
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\ItemTemplates\CSharp\Code\1033\Class\Class.cs
--------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
 *Notes*
 Express Editions
 
