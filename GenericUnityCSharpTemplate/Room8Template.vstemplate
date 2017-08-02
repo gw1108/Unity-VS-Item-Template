@@ -1,0 +1,22 @@
+﻿<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Item">
+  <TemplateData>
+    <!-- Template name shown in "Add new item" dialog -->
+    <Name>Unity Class</Name>
+    <!-- Description shown in "Add new item" dialog -->
+    <Description>Creates an empty C# class deriving MonoBehaviour.</Description>
+    <!-- Default file name shown in "Add new item" dialog -->
+    <DefaultName>NewMonoBehaviour.cs</DefaultName>
+    <!-- If set to false, the template will not be shown in "Add new item" dialog. Useful for e.g.  hiding templates intended purely for code generation. -->
+    <ShowByDefault>true</ShowByDefault>
+    <ProjectType>CSharp</ProjectType>
+    <SortOrder>10</SortOrder>
+    <Icon>reasoncodeexample.ico</Icon>
+  </TemplateData>
+  <TemplateContent>
+    <!-- Custom "replacement tokens" -->
+    <CustomParameters>
+      <CustomParameter Name="$company$" Value="com.company.name"/>
+    </CustomParameters>
+    <ProjectItem SubType="Code" TargetFileName="$fileinputname$.cs" ReplaceParameters="true">NewMonoBehaviour.cs</ProjectItem>
+  </TemplateContent>
+</VSTemplate>
