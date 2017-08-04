@@ -34,6 +34,9 @@ If you don't use the English version of Visual Studio, the folder 1033 may not e
 
 In Windows Vista, the default directory is ..\Users\<username>\Documents\Visual Studio 2010\Templates\ItemTemplates\. 
 
+*Cache* location windows 10
+C:\Users\<username>\AppData\Roaming\Microsoft\VisualStudio\15.0_218e1ab1\ItemTemplatesCache\Visual C#\GenericUnityCSharpTemplate.zip
+
 For more information, see :
 http://msdn.microsoft.com/en-us/library/vstudio/ms247113%28v=vs.100%29.aspx
 
